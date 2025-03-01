@@ -1,12 +1,9 @@
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
-COPY *.sln ./
-COPY REproject3_1/REproject3_1.csproj ./REproject3_1/
-COPY JSONLibrary/JSONLibrary.csproj ./JSONLibrary/
-RUN dotnet restore
 COPY . ./
-RUN dotnet publish -c Release -o out
+RUN dotnet restore
+RUN dotnet publish -o out
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=build-env /app/out .
+COPY --from=build /app/out .
 ENTRYPOINT ["dotnet", "REproject3_1.dll"]
