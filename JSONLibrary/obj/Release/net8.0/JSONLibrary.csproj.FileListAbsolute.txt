@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\bin\Release\net8.0\JSONLibrary.deps.json
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\bin\Release\net8.0\JSONLibrary.dll
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\bin\Release\net8.0\JSONLibrary.pdb
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.AssemblyInfo.cs
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.dll
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\refint\JSONLibrary.dll
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\JSONLibrary.pdb
+C:\Users\Denis\source\repos\REproject3_1\JSONLibrary\obj\Release\net8.0\ref\JSONLibrary.dll

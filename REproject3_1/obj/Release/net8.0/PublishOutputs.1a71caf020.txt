@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\REproject3_1.exe
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\REproject3_1.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\REproject3_1.deps.json
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\REproject3_1.runtimeconfig.json
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\REproject3_1.pdb
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\ClosedXML.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\ClosedXML.Parser.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\DocumentFormat.OpenXml.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\ExcelNumberFormat.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\RBush.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\SixLabors.Fonts.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\System.IO.Packaging.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\JSONLibrary.dll
+C:\Users\Denis\source\repos\REproject3_1\REproject3_1\bin\Release\net8.0\publish\JSONLibrary.pdb
